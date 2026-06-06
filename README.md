@@ -1,4 +1,4 @@
-# This is a simple Java Swing-based To-Do List Application that allows users to efficiently manage tasks. It features a graphical user interface (GUI) with the following functionalities:
+# Java Swing-based To-Do List Application
 
 Add Tasks: Users can input tasks in a text field and add them to the list using an "Add Task" button.
 Remove Tasks: Users can select a task from the list and delete it using a "Remove Task" button.
